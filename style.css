@@ -1,0 +1,14 @@
+nav li{
+    list-style: none;
+    display: inline;
+    background-color: rgb(23, 163, 121);
+    padding: 2px 10px;
+    border-radius: 10px;
+}
+nav li a {
+    text-decoration: none;
+}
+nav li:hover{
+    background-color: rgb(175, 90, 255);
+    padding: 3px 11px;
+}
